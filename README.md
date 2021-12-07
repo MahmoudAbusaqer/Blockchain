@@ -1,5 +1,5 @@
 # Blockchain
-A simple blockchain using Node.js
+A simple blockchain using Node.js and JavaScript.
 
 ## Features
 * Simple proof-of-work algorithm
